@@ -1,13 +1,3 @@
-"""
-Semestralni prace z predmetu AP1VS.
-
-Skupina: ST1416
-Projekt: Triangle
-Autori: Martin Zurek, David Fiala, David Tomecek, Josef Kuzel, David Zidek
-
-Hlavni kod
-"""
-
 # Libraries import
 import math
 import time
