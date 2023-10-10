@@ -45,7 +45,7 @@ def test_area():
 
 
 # Test function for checking the constructability of the triangle ABC
-def test_constructibility():
+def test_constructability():
     assert constructability(6, 8, 9) is True
     assert constructability(2, 2, 4) is False
 
