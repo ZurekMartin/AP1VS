@@ -1,11 +1,11 @@
 """
-Závěrečný projekt z předmětu AP1VS.
+Semestralni prace z predmetu AP1VS.
 
 Skupina: ST1416
-Projekt: Trojúhelník
-Autoři: Martin Žůrek, David Fiala, David Tomeček, Josef Kužel, David Žídek
+Projekt: Triangle
+Autori: Martin Zurek, David Fiala, David Tomecek, Josef Kuzel, David Zidek
 
-Hlavní kód projektu trojúhelník
+Hlavni kod
 """
 
 # Libraries import
