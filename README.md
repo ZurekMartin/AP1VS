@@ -8,6 +8,7 @@ Simple calculator for calculating triangle parameters
 - calculate the area of a triangle
 - constructability verification
 - squareness verification
+- formated output in terminal
 
 ## Test_triangle
 Simple testing of function arguments from triangle
