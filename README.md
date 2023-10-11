@@ -11,7 +11,7 @@ Simple calculator of triangle parameters
 - formated output in terminal
 
 ## Test_triangle
-Simple testing of function arguments from triangle
+Simple testing of functions arguments
 
 ### Functionality
 - test input arguments for each funtion from triangle
