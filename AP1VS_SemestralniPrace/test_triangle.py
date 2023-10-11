@@ -3,7 +3,7 @@ from triangle import size_length
 from triangle import perimeter
 from triangle import area
 from triangle import constructability
-from triangle import right_angle_check
+from triangle import squareness
 import pytest
 
 
@@ -45,10 +45,10 @@ def test_constructability():
 
 
 # Test function for checking the right angle of the triangle ABC
-def test_right_angle_check():
-    assert right_angle_check(10, 8, 6) is True
-    assert right_angle_check(4, 6, 8) is False
+def test_squareness():
+    assert squareness(10, 8, 6) is True
+    assert squareness(4, 6, 8) is False
 
     with pytest.raises(TypeError):
-        right_angle_check(7 + 1j, 9 + 7j, 10 + 4j)
-        right_angle_check("s", "o", "j")
+        squareness(7 + 1j, 9 + 7j, 10 + 4j)
+        squareness("s", "o", "j")
