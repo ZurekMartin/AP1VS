@@ -14,4 +14,4 @@ Simple calculator of triangle parameters
 Simple testing of functions arguments
 
 ### Functionality
-- test input arguments for each funtion from triangle
+- test input arguments for each function
