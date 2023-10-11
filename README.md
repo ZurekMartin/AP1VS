@@ -2,7 +2,7 @@
 ## Triangle
 Simple calculator for calculating triangle parameters
 
-### Funcionality
+### Functionality
 - calculate the length of a side of a triangle
 - calculate the perimeter of a triangle
 - calculate the area of a triangle
@@ -13,5 +13,5 @@ Simple calculator for calculating triangle parameters
 ## Test_triangle
 Simple testing of function arguments from triangle
 
-### Funcionality
+### Functionality
 - test input arguments for each funtion from triangle
