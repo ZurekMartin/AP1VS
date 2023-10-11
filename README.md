@@ -3,9 +3,9 @@
 Simple calculator for calculating triangle parameters
 
 ### Funcionality
-- calculating the length of a side of a triangle
-- calculating the content of a triangle
-- calculating the perimeter of a triangle
+- calculate the length of a side of a triangle
+- calculate the perimeter of a triangle
+- calculate the area of a triangle
 - constructability verification
 - squareness verification
 
