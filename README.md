@@ -1,6 +1,6 @@
 # AP1VS
 ## Triangle
-Simple calculator for calculating triangle parameters
+Simple calculator of triangle parameters
 
 ### Functionality
 - calculate the length of a side of a triangle
