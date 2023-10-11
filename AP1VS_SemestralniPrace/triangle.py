@@ -88,10 +88,10 @@ def constructability(side_a, side_b, side_c):
             return False
 
 
-# Function for checking the right angle of the triangle
-def right_angle_check(side_a, side_b, side_c):
+# Function for checking the squareness of the triangle
+def squareness(side_a, side_b, side_c):
     """
-    Checking the right angle of the triangle ABC.
+    Checking the squareness of the triangle ABC.
 
     :param side_a: Input parameter size of side a
     :param side_b: Input parameter size of side b
@@ -141,7 +141,7 @@ def triangle(aX, aY, bX, bY, cX, cY):
         print("Triangle ABC has area = %.1f cm2." % result_of_function_area)
         time.sleep(2)
         print()
-        if right_angle_check(side_a, side_b, side_c):
+        if squareness(side_a, side_b, side_c):
             print("Triangle ABC is right-angled.")
         else:
             print("Triangle ABC is not right-angled.")
