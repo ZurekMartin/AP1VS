@@ -1,6 +1,6 @@
 # AP1VS
 
-## Triangle
+## Triangle parameters calculator
 Simple calculator of triangle parameters
 
 ### Functionality
